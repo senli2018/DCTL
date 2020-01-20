@@ -9,4 +9,4 @@ Microscopic images of Apicomplexan parasites: [Download](https://drive.google.co
 
 Macriscopic images of source domain: [Download](https://drive.google.com/open?id=1LeloHJE8p8OE93eYMNLiBDkDADwQvUrV)
 
-
+After downloading these two datasets, please extract them into the 'dataset' folder, and then run 'train.py'.
